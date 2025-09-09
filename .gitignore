@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Poetry venv
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Конфиденциальные файлы
+database.ini
+.env
